@@ -1,0 +1,141 @@
+.game {
+  height: 100vh;
+  background-color: #f7f2e1;
+  position: relative;
+  width: 100vw;
+}
+
+.pawn {
+  background-size: cover;
+  height: 60px;
+  position: absolute;
+  width: 36px;
+  z-index: 10;
+}
+
+.pawn-1 {
+  background-image: url('../img/pawn-1.png');
+  top: 15px;
+  left: 10px;
+}
+
+.pawn-2 {
+  background-image: url('../img/pawn-2.png');
+  left: 45px;
+  top: 35px;
+}
+
+.pawn-3 {
+  background-image: url('../img/pawn-3.png');
+  top: 70px;
+  left: 10px;
+}
+
+.pawn-4 {
+  background-image: url('../img/pawn-4.png');
+  left: 45px;
+  top: 90px;
+}
+
+.dice {
+  height: 100vh;
+  position: absolute;
+  width: 100vw;
+}
+
+.cube {
+  /* background-image set by JS */
+  background-size: contain;
+  bottom: -100px;
+  height: 90px;
+  position: absolute;
+  right: -100px;
+  width: 100px;
+  z-index: 20;
+}
+
+.cube.roll {
+  bottom: 42%;
+  right: 15%;
+  transition: bottom 1s ease-out, right 1s ease-out;
+}
+
+.card-stack {
+  height: 100vh;
+  position: absolute;
+  width: 100vw;
+}
+
+.card {
+  display: none;
+  height: 250px;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  z-index: 30;
+}
+
+.card .front,
+.card .back {
+  background-color: #fff;
+  box-shadow:
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+  padding: 20px;
+}
+
+.card .category {
+  border-bottom: 1px solid #227488;
+  color: #227488;
+  font-size: 26px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.card .question {
+  color: #30271c;
+  font-size: 26px;
+  left: 50%;
+  line-height: 32px;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 360px;
+}
+
+.card .card-id {
+  bottom: 10px;
+  color: #bcbcbc;
+  position: absolute;
+  right: 10px;
+}
+
+.card .answer {
+  position: absolute;
+  width: 360px;
+  color: #30271c;
+  top: 50%;
+  text-align: center;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 32px;
+  line-height: 38px;
+}
+
+.board {
+  background-image: url('../img/board.png');
+  background-size: contain;
+  height: 750px;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 1000px;
+  z-index: 0;
+}

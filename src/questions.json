@@ -1,0 +1,1094 @@
+[
+	{
+		"id": "ART01",
+		"category": "Arto",
+		"question": "Kiu itala artisto pentris la freskojn de la Siksta Kapelo?",
+		"answer": "Michelangelo"
+	},
+	{
+		"id": "ART02",
+		"category": "Arto",
+		"question": "I. M. Pei dezajnis grandan vitran piramidon por la nova ĉefenirejo de kiu franca muzeo?",
+		"answer": "muzeo Luvro"
+	},
+	{
+		"id": "ART03",
+		"category": "Arto",
+		"question": "Kiu nederlanda artisto pentris la post-impresionisman verkon “Stela Nokto”?",
+		"answer": "Vincent van Gogh"
+	},
+	{
+		"id": "ART04",
+		"category": "Arto",
+		"question": "Kiu meksika artisto pentris pli ol 50 memportretojn pri sia vivsperto kaj sufero?",
+		"answer": "Frida Kahlo"
+	},
+	{
+		"id": "ART05",
+		"category": "Arto",
+		"question": "Kiu hispana artisto pentris la superrealisman verkon “Gerniko”?",
+		"answer": "Pablo Picasso"
+	},
+	{
+		"id": "ART06",
+		"category": "Arto",
+		"question": "Kiu itala inventisto kaj artisto pentris la portreton de virino kun mistera rideto, “La Ĝokonda”?",
+		"answer": "Leonardo da Vinci"
+	},
+	{
+		"id": "ART07",
+		"category": "Arto",
+		"question": "Kiu statuaro gardas la tombon de la unua imperiestro de Ĉinio, Ĉjin Ŝihuang?",
+		"answer": "Terakota Armeo"
+	},
+	{
+		"id": "ART08",
+		"category": "Arto",
+		"question": "Kiu hispana artisto pentris la superrealisman verkon “La Persisto de la Memoro”?",
+		"answer": "Salvador Dalí"
+	},
+	{
+		"id": "ART09",
+		"category": "Arto",
+		"question": "Kiu japana artisto kreis la lignopresan serion “36 Vidoj de la Monto Fuĵi”?",
+		"answer": "Kacuŝika Hokusai"
+	},
+	{
+		"id": "ART10",
+		"category": "Arto",
+		"question": "Kiu pentristo estas konata kiel la “Patrino de Usona Modernismo”?",
+		"answer": "Georgia O’Keeffe"
+	},
+	{
+		"id": "ART11",
+		"category": "Arto",
+		"question": "En kiu lando troviĝas la muzeo Ŝtata Ermitejo?",
+		"answer": "Rusio"
+	},
+	{
+		"id": "ART12",
+		"category": "Arto",
+		"question": "Atendinte ekzekuton, kiu irana virino verkis poemojn kaj karbokrajonajn desegnojn pri sia sperto en malliberejo?",
+		"answer": "Delara Darabi"
+	},
+	{
+		"id": "ART13",
+		"category": "Arto",
+		"question": "Kiu germana esperantisto estas unu el la plej gravaj artistoj de la epoko Socia Realismo?",
+		"answer": "Otto Dix"
+	},
+	{
+		"id": "ART14",
+		"category": "Arto",
+		"question": "Kiu usona pentristo famiĝis pro abstrakt-stilo kun gutiginta kaj ŝpruciginta farbo?",
+		"answer": "Jackson Pollock"
+	},
+	{
+		"id": "ART15",
+		"category": "Arto",
+		"question": "La bronza skulptaĵo “La Pensanto” estas unu el la plej famaj verkoj de kiu franca skulptisto?",
+		"answer": "Auguste Rodin"
+	},
+	{
+		"id": "ART16",
+		"category": "Arto",
+		"question": "Kio kaŝas lian vizaĝon en la memportreto de belga pentristo René Magritte, “Filo de Homo”?",
+		"answer": "pomo"
+	},
+	{
+		"id": "SCI01",
+		"category": "Scienco",
+		"question": "Kiu planedo mezuriĝas preskaŭ sam-diametre al la tero?",
+		"answer": "Venuso"
+	},
+	{
+		"id": "SCI02",
+		"category": "Scienco",
+		"question": "Dum kiu monato la tero orbitas plej proksime al la suno?",
+		"answer": "Januaro"
+	},
+	{
+		"id": "SCI03",
+		"category": "Scienco",
+		"question": "Kiu planedo havas pli ol 60 lunoj?",
+		"answer": "Jupitero"
+	},
+	{
+		"id": "SCI04",
+		"category": "Scienco",
+		"question": "Kia astro havas tiom fortan graviton, tiel eĉ la lumo ne povas eskapi ĝin?",
+		"answer": "nigra truo"
+	},
+	{
+		"id": "SCI05",
+		"category": "Scienco",
+		"question": "Kia astro estas “1421 Esperanto” kaj “1462 Zamenhof”?",
+		"answer": "asteroido"
+	},
+	{
+		"id": "SCI06",
+		"category": "Scienco",
+		"question": "Kiuj du elementoj faras molekulon da akvo?",
+		"answer": "hidrogeno kaj oksigeno"
+	},
+	{
+		"id": "SCI07",
+		"category": "Scienco",
+		"question": "Kiuj du elementoj ĉiam troviĝas en organika kombinaĵo?",
+		"answer": "karbono kaj hidrogeno"
+	},
+	{
+		"id": "SCI08",
+		"category": "Scienco",
+		"question": "Kiu estas la unua elemento en la perioda tabelo de kemiaj elementoj?",
+		"answer": "hidrogeno"
+	},
+	{
+		"id": "SCI09",
+		"category": "Scienco",
+		"question": "Natria klorido estas la scienca nomo de kiu gustumaĵo?",
+		"answer": "salo"
+	},
+	{
+		"id": "SCI10",
+		"category": "Scienco",
+		"question": "Kiu brita matematikisto konatiĝis kiel la unua programisto pro disvolvi algoritmojn por analitika maŝino?",
+		"answer": "Ada Lovelace"
+	},
+	{
+		"id": "SCI11",
+		"category": "Scienco",
+		"question": "Kiu itala esperantisto ricevis la Nobel-premion pri medicino pro malkovro de antihistaminoj?",
+		"answer": "Daniel Bovet"
+	},
+	{
+		"id": "SCI12",
+		"category": "Scienco",
+		"question": "Kiu brita sciencisto fondis la teorion de evoluismo per natura selektado?",
+		"answer": "Charles Darwin"
+	},
+	{
+		"id": "SCI13",
+		"category": "Scienco",
+		"question": "Kiu pola kemiisto malkovris la elementojn Polonio kaj Radiumo, kaj esploris kuracadon de tumoroj per radiado?",
+		"answer": "Marie Skłodowska Curie"
+	},
+	{
+		"id": "SCI14",
+		"category": "Scienco",
+		"question": "Homoj havas kiom da kromosomoj?",
+		"answer": "46 (23 paroj)"
+	},
+	{
+		"id": "SCI15",
+		"category": "Scienco",
+		"question": "Kiu germana fizikisto konceptis la teoriojn de speciala kaj ĝenerala relativeco?",
+		"answer": "Albert Einstein"
+	},
+	{
+		"id": "SCI16",
+		"category": "Scienco",
+		"question": "Kia koloro brulis kupro, kiam oni metas ĝin en fajron?",
+		"answer": "verda"
+	},
+	{
+		"id": "GEO01",
+		"category": "Geografio",
+		"question": "En kiu sud-amerika lando troviĝas Anĝela Akvofalo, la plej alta akvofalo de la tero?",
+		"answer": "Venezuelo"
+	},
+	{
+		"id": "GEO02",
+		"category": "Geografio",
+		"question": "Kiu rivero estas la plej granda rivero de la tero?",
+		"answer": "Amazona Rivero"
+	},
+	{
+		"id": "GEO03",
+		"category": "Geografio",
+		"question": "Kiu estas la plej malgranda internacie agnoskata ŝtato de la mondo?",
+		"answer": "Vatikano"
+	},
+	{
+		"id": "GEO04",
+		"category": "Geografio",
+		"question": "Apud la marbordo de kiu lando troviĝas la Granda Barilrifo?",
+		"answer": "Aŭstralio"
+	},
+	{
+		"id": "GEO05",
+		"category": "Geografio",
+		"question": "En kiu oceano troviĝas Esperanto Insulo?",
+		"answer": "Suda Oceano"
+	},
+	{
+		"id": "GEO06",
+		"category": "Geografio",
+		"question": "Damasko estas la plej malnova urbo de la mondo kaj la ĉefurbo de kiu lando?",
+		"answer": "Sirio"
+	},
+	{
+		"id": "GEO07",
+		"category": "Geografio",
+		"question": "Kiu monto estas la plej alta de la tero?",
+		"answer": "Everesto"
+	},
+	{
+		"id": "GEO08",
+		"category": "Geografio",
+		"question": "Kie estas la plej vasta dezerto de la tero?",
+		"answer": "Antarkto"
+	},
+	{
+		"id": "GEO09",
+		"category": "Geografio",
+		"question": "Kiu kontineno estas la plej malgranda de la tero?",
+		"answer": "Aŭstralio"
+	},
+	{
+		"id": "GEO10",
+		"category": "Geografio",
+		"question": "Kiu montaro estas la plej longa de la tero?",
+		"answer": "Anda Montaro"
+	},
+	{
+		"id": "GEO11",
+		"category": "Geografio",
+		"question": "En kiu lando troviĝas Esperanto Rivereto?",
+		"answer": "Usono"
+	},
+	{
+		"id": "GEO12",
+		"category": "Geografio",
+		"question": "En kiu lando troviĝas lago Bajkalo, la plej profunda lago de la tero?",
+		"answer": "Rusio"
+	},
+	{
+		"id": "GEO13",
+		"category": "Geografio",
+		"question": "Kiu insulo estas la plej granda de la tero? (Aŭstralio estas kontinento, ne insulo)",
+		"answer": "Gronlando"
+	},
+	{
+		"id": "GEO14",
+		"category": "Geografio",
+		"question": "Kiu estas la plej profunda loko de la tera surfaco?",
+		"answer": "Mariana Fosego"
+	},
+	{
+		"id": "GEO15",
+		"category": "Geografio",
+		"question": "Kovrante trionon de la surfaco de la tero, kiu estas la plej granda oceano?",
+		"answer": "Pacifika Oceano"
+	},
+	{
+		"id": "GEO16",
+		"category": "Geografio",
+		"question": "Kiu lando havas la plej longan marbordon?",
+		"answer": "Kanado"
+	},
+	{
+		"id": "LIT01",
+		"category": "Literaturo",
+		"question": "Kiu svisa esperantiso verkis la biografian libron “Vivo de Zamenhof”?",
+		"answer": "Edmond Privat"
+	},
+	{
+		"id": "LIT02",
+		"category": "Literaturo",
+		"question": "Kiu svisa esperantisto verkis la libron “La Bona Lingvo”?",
+		"answer": "Claude Piron"
+	},
+	{
+		"id": "LIT03",
+		"category": "Literaturo",
+		"question": "Kiun tragedion de William Shakespeare tradukis Zamenhof en Esperanton?",
+		"answer": "Hamleto, Princo de Danujo"
+	},
+	{
+		"id": "LIT04",
+		"category": "Literaturo",
+		"question": "Kiu skota esperantisto verkis la poemon, “La Infana Raso”?",
+		"answer": "William Auld"
+	},
+	{
+		"id": "LIT05",
+		"category": "Literaturo",
+		"question": "Kiu rusa esperantisto verkis la romanon “Milito kaj Paco”?",
+		"answer": "Lev Tolstoy"
+	},
+	{
+		"id": "LIT06",
+		"category": "Literaturo",
+		"question": "Kiu hispana aŭtoro verkis la romanon “La Inĝenia Kavaliro Don Kiĥoto el Manĉo”?",
+		"answer": "Miguel de Cervantes Saavedra"
+	},
+	{
+		"id": "LIT07",
+		"category": "Literaturo",
+		"question": "Kiu angla esperantisto verkis “La Hobito” kaj “La Mastro de la Ringoj”?",
+		"answer": "J R R Tolkien"
+	},
+	{
+		"id": "LIT08",
+		"category": "Literaturo",
+		"question": "Kiu franca kuracisto verkis la unuan romanon verkita en Esperanto, “Kastelo de Prelongo”?",
+		"answer": "Henri Vallienne"
+	},
+	{
+		"id": "LIT09",
+		"category": "Literaturo",
+		"question": "La stilo de hungara esperantisto Kalocsay Kálmán estas reprezentanta de kiu skolo de esperanta verkado?",
+		"answer": "Budapeŝta Skolo"
+	},
+	{
+		"id": "LIT10",
+		"category": "Literaturo",
+		"question": "Kiu dana aŭtoro verkis la fablon “La Malbela Anasido”?",
+		"answer": "Hans Christian Andersen"
+	},
+	{
+		"id": "LIT11",
+		"category": "Literaturo",
+		"question": "Kiu germana esperantisto verkis la romanon “Fajron Sentas Mi Interne”?",
+		"answer": "Ulrich Matthias"
+	},
+	{
+		"id": "LIT12",
+		"category": "Literaturo",
+		"question": "Kiu ĉina verkisto kaj milita strategiisto verkis la armean traktaĵon “La Militarto”?",
+		"answer": "Sun Tzu"
+	},
+	{
+		"id": "LIT13",
+		"category": "Literaturo",
+		"question": "Kiu angla aŭtoro verkis la unuan sciencfikcian romanon, “Frankenŝtejno aŭ la Moderna Prometeo”?",
+		"answer": "Mary Shelley"
+	},
+	{
+		"id": "LIT14",
+		"category": "Literaturo",
+		"question": "Kiel nomiĝas la poemstilo, en kiu poemoj konsistas el tri linioj, havante 5 silabojn en la unua linio, 7 silabojn en la dua linio, kaj 5 silabojn en la tria linio?",
+		"answer": "hajkuo"
+	},
+	{
+		"id": "LIT15",
+		"category": "Literaturo",
+		"question": "Kiel nomiĝas la poemstilo, kiu konsistas el 14 linioj en kvar strofoj kun striktaj reguloj pri rimo kaj ritmo?",
+		"answer": "soneto"
+	},
+	{
+		"id": "LIT16",
+		"category": "Literaturo",
+		"question": "Kiu literatura libroforma revuo aperas po tri fojoj jare kun poezio, prozo, kaj esejoj en Esperanto?",
+		"answer": "Beletra Almanako"
+	},
+	{
+		"id": "FLM01",
+		"category": "Filmo",
+		"question": "Kiu krimrakonta filmo estis la unua longdaŭra esperanta filmo?",
+		"answer": "Angoroj"
+	},
+	{
+		"id": "FLM02",
+		"category": "Filmo",
+		"question": "Kiu kanada aktoro rolis kiel juna soldato en la esperanta horora filmo “Incubus”?",
+		"answer": "William Shatner"
+	},
+	{
+		"id": "FLM03",
+		"category": "Filmo",
+		"question": "Sur kiu esperanta libro de Jean Forge, en kiu hotelposedanto havas la eblon kaŝe rigardi al ĉiuj ĉambroj de sia hotelo, baziĝis germana filmo en 1960?",
+		"answer": "La 1000 Okuloj de Mister Tot"
+	},
+	{
+		"id": "FLM04",
+		"category": "Filmo",
+		"question": "Kie okazis la unua Esperanta Kinofestivalo en 2011?",
+		"answer": "San-Paŭlo, Brazilo"
+	},
+	{
+		"id": "FLM05",
+		"category": "Filmo",
+		"question": "Kiu esperanta sciencfikcia filmo de Francisko Randin temas pri eksterteranoj, kiuj lernas Esperanton por komuniki kun homoj?",
+		"answer": "La Verda Stelulo"
+	},
+	{
+		"id": "FLM06",
+		"category": "Filmo",
+		"question": "Kiel nomiĝas la esperanta desegnita filmeto, kiu temas pri rano, muso, kaj la graveco de supersignoj?",
+		"answer": "Ĉapeloj"
+	},
+	{
+		"id": "FLM07",
+		"category": "Filmo",
+		"question": "Kiun esperantan libron de Claude Piron adaptis la brazila studio Imagu-Filmoj al filmo?",
+		"answer": "Gerda Malaperis!"
+	},
+	{
+		"id": "FLM08",
+		"category": "Filmo",
+		"question": "Kiu usona filmo estis la unua longdaŭra desegnita filmo?",
+		"answer": "Neĝulino kaj la Sep Nanoj"
+	},
+	{
+		"id": "FLM09",
+		"category": "Filmo",
+		"question": "Kiu norvega mallonga filmo rakontas pri fuŝa vespero por la nove elektita prezidanto de norvega esperanto-societo?",
+		"answer": "Que Sera Sera"
+	},
+	{
+		"id": "FLM10",
+		"category": "Filmo",
+		"question": "En kiu angla-lingva filmo de Charlie Chaplin oni povas vidi ŝildojn en Esperanto?",
+		"answer": "La Granda Diktatoro"
+	},
+	{
+		"id": "FLM11",
+		"category": "Filmo",
+		"question": "Kiu esperanta filmeto, bazita sur okcitana fabeloj pri forlasita adoptita kaj reprenita infano, ricevis la unuan premion en la kategorio arta filmo en Festivalo de Maribor en 2002?",
+		"answer": "La Tukoj"
+	},
+	{
+		"id": "FLM12",
+		"category": "Filmo",
+		"question": "Kiu germana kvin-epizoda serio de Natalie MacMahon temas pri mondo, en kiu amo kaj Esperanto estas malpermesataj?",
+		"answer": "Malsano Nomata Amo"
+	},
+	{
+		"id": "SPT01",
+		"category": "Sporto",
+		"question": "Dum la 99-a Universala Kongreso, la Selektitaro de Esperanto ludis sian unuan matĉon en kiu urbo?",
+		"answer": "Bonaero, Argentino"
+	},
+	{
+		"id": "SPT02",
+		"category": "Sporto",
+		"question": "Kiu jamajka kuristo estas la plej rapida viro de la historio?",
+		"answer": "Usain Bolt"
+	},
+	{
+		"id": "SPT03",
+		"category": "Sporto",
+		"question": "Kiom da “truoj” dividiĝas la sporto golfo?",
+		"answer": "18"
+	},
+	{
+		"id": "SPT04",
+		"category": "Sporto",
+		"question": "La portugala sportisto Cristiano Ronaldo famiĝis pro kiu sporto?",
+		"answer": "futbalo"
+	},
+	{
+		"id": "SPT05",
+		"category": "Sporto",
+		"question": "Kiu usona atleto gajnis la plej multon de olimpikaj medaloj?",
+		"answer": "Michael Phelps (28 medaloj)"
+	},
+	{
+		"id": "SPT06",
+		"category": "Sporto",
+		"question": "La itala sportisto Alberto Tomba famiĝis pro kiu sporto?",
+		"answer": "alpa skiado"
+	},
+	{
+		"id": "SPT07",
+		"category": "Sporto",
+		"question": "Kia koloro estas la 8-globo en poolbilardo?",
+		"answer": "blanka"
+	},
+	{
+		"id": "SPT08",
+		"category": "Sporto",
+		"question": "Kiu usona boksisto fame diris “Mi flugas kiel papilio. Mi pikis kiel abelo”?",
+		"answer": "Muhammad Ali"
+	},
+	{
+		"id": "SPT09",
+		"category": "Sporto",
+		"question": "Kiu lando gajnis la unuan Futbalan Mondopokalon?",
+		"answer": "Urugvajo"
+	},
+	{
+		"id": "SPT10",
+		"category": "Sporto",
+		"question": "Kiu rumana gimnasto estis la unua virino kiu ricevis perfektan poentaron dum iu ajn olimpia evento?",
+		"answer": "Nadia Comăneci"
+	},
+	{
+		"id": "SPT11",
+		"category": "Sporto",
+		"question": "Kiujn du aferojn kunigas sporto inventita en 2003 de la nederlanda artisto Iepe Rubingh?",
+		"answer": "ŝako kaj boksado"
+	},
+	{
+		"id": "SPT12",
+		"category": "Sporto",
+		"question": "Kiom da poentoj estas maximume gajneblaj en dek-kegla bovlingo?",
+		"answer": "300"
+	},
+	{
+		"id": "SPT13",
+		"category": "Sporto",
+		"question": "Kiu lando gastigis la vintran Olimpiajn Ludojn en 2018?",
+		"answer": "Sud-Koreio"
+	},
+	{
+		"id": "SPT14",
+		"category": "Sporto",
+		"question": "Kiu boksisto mordis la orelon de sia oponanto dum matĉo en 1997?",
+		"answer": "Mike Tyson"
+	},
+	{
+		"id": "SPT15",
+		"category": "Sporto",
+		"question": "De kiu lando devenis la fama tenisludisto Roger Federer?",
+		"answer": "Svisio"
+	},
+	{
+		"id": "SPT16",
+		"category": "Sporto",
+		"question": "Kiu novzelanda montogrimpisto fariĝis la unua grimpisto, kun helpo de ŝerpo Tenzing Norgaye, kiu atingis la pinton de Monto Everesto en 1953?",
+		"answer": "Edmund Hillary"
+	},
+	{
+		"id": "HIS01",
+		"category": "Historio",
+		"question": "Celante subteni tut-mondan pacon, kiu organizo fondiĝis pere de la Traktato de Versailles?",
+		"answer": "Ligo de Nacioj"
+	},
+	{
+		"id": "HIS02",
+		"category": "Historio",
+		"question": "Kiu fondis la ideon de senperforta malobeo dum la sendependiga lukto de Hindujo?",
+		"answer": "Mohandas Gandhi"
+	},
+	{
+		"id": "HIS03",
+		"category": "Historio",
+		"question": "En 1893, kiu lando unue donis balotrajton al virinoj por la tutlandaj elektoj?",
+		"answer": "Nov-Zelando"
+	},
+	{
+		"id": "HIS04",
+		"category": "Historio",
+		"question": "Kiu estas la sola usona prezidento, kiu servis pli ol du oficperiodojn?",
+		"answer": "Franklin Roosevelt"
+	},
+	{
+		"id": "HIS05",
+		"category": "Historio",
+		"question": "Kiu fama incendio okazis en 1666, detruinte 13.200 domojn kaj forpelinte pli ol 70.000 urbanoj?",
+		"answer": "Granda incendio de Londono"
+	},
+	{
+		"id": "HIS06",
+		"category": "Historio",
+		"question": "En 44 a.K., kiu antikva romia militestro estis murdita pro konspiro de senatanoj?",
+		"answer": "Julio Cezaro"
+	},
+	{
+		"id": "HIS07",
+		"category": "Historio",
+		"question": "Kiu portugala esploristo unue velis tut-ĉirkaŭ la mondo?",
+		"answer": "Ferdinand Magellan"
+	},
+	{
+		"id": "HIS08",
+		"category": "Historio",
+		"question": "Akceptita dum la unua Universala Kongreso, kiu dokumento klarigis la signifon de Esperantismo?",
+		"answer": "Deklaracio pri la Esenco de Esperantismo (la Bulonja Deklaracio)"
+	},
+	{
+		"id": "HIS09",
+		"category": "Historio",
+		"question": "En 1908, Amikejo estas proponita esperanta ŝtato en kiu disputita teritorio?",
+		"answer": "Neŭtrala Moresnet"
+	},
+	{
+		"id": "HIS10",
+		"category": "Historio",
+		"question": "En 1989, la malfermo de kiu instigis la reunuiĝon de Okcidenta kaj Orienta Berlino?",
+		"answer": "Berlina Muro"
+	},
+	{
+		"id": "HIS11",
+		"category": "Historio",
+		"question": "Dum kiu milito okazis la Sieĝo de Leningrado, unu el la plej longdaŭraj kaj detruigaj sieĝoj en la historio?",
+		"answer": "Dua Mondmilito"
+	},
+	{
+		"id": "HIS12",
+		"category": "Historio",
+		"question": "Kiu usona piloto estis la unua virina, kiu flugas sole trans la Atlantika Oceano?",
+		"answer": "Amelia Earhart"
+	},
+	{
+		"id": "HIS13",
+		"category": "Historio",
+		"question": "La franca reĝino Marie Antoinette naskiĝis en kiu lando?",
+		"answer": "Aŭstrio"
+	},
+	{
+		"id": "HIS14",
+		"category": "Historio",
+		"question": "Kiu verko de filozofoj Karl Marx kaj Fredrich Engels fariĝis unu el la plej influantaj politikaj traktaĵoj?",
+		"answer": "La Komunista Manifesto"
+	},
+	{
+		"id": "HIS15",
+		"category": "Historio",
+		"question": "Kiu unue paŝis sur la lunon en 1969?",
+		"answer": "Neil Armstrong"
+	},
+	{
+		"id": "HIS16",
+		"category": "Historio",
+		"question": "Kiu estis la unua demokrate elektita prezidanto de Rusio?",
+		"answer": "Boris Yeltsin"
+	},
+	{
+		"id": "ESP01",
+		"category": "Esperantujo",
+		"question": "Kiu “moderna” slangvorto estas uzata por esprimi ies imponon aŭ dezirindecon?",
+		"answer": "mojosa"
+	},
+	{
+		"id": "ESP02",
+		"category": "Esperantujo",
+		"question": "En 2015, la Tutmonda Esperantista Junulara Organizo decidis disdoni kion, montrante la frapfrazon “TEJO protektas vin”?",
+		"answer": "kondomoj"
+	},
+	{
+		"id": "ESP03",
+		"category": "Esperantujo",
+		"question": "Uzita en interreta konversacio, kion signifas la mallongigo “MDR”?",
+		"answer": "multe da ridoj"
+	},
+	{
+		"id": "ESP04",
+		"category": "Esperantujo",
+		"question": "Kiu servo koncernas pri esperantistoj el la tuta mondo, kiuj gastigas aliajn esperantistojn senpage en siaj hejmoj?",
+		"answer": "Pasporta Servo"
+	},
+	{
+		"id": "ESP05",
+		"category": "Esperantujo",
+		"question": "La instruado en kiu universitato okazas plene en Esperanto?",
+		"answer": "Akademio Internacia de la Sciencoj, San-Marino"
+	},
+	{
+		"id": "ESP06",
+		"category": "Esperantujo",
+		"question": "Kiu estas la esperanta videoblogisto en YouTube, kiu uzas la kaŝnomon Evildea?",
+		"answer": "Richard Delamore"
+	},
+	{
+		"id": "ESP07",
+		"category": "Esperantujo",
+		"question": "Kiu termino signifas paroli lingvon krom Esperanto dum esperanta renkontiĝo?",
+		"answer": "krokodili"
+	},
+	{
+		"id": "ESP08",
+		"category": "Esperantujo",
+		"question": "Kiu termino signifas iun, kiu studas Esperanton sed neniam progresas en sia scipovo?",
+		"answer": "eterna komencanto"
+	},
+	{
+		"id": "ESP09",
+		"category": "Esperantujo",
+		"question": "Kiu ĉiujara eldono prezentas informon pri la gvidorgano de UEA kaj esperantaj fakaj asocioj?",
+		"answer": "Jarlibro de UEA"
+	},
+	{
+		"id": "ESP10",
+		"category": "Esperantujo",
+		"question": "Kiu termino signifas forlasi la esperantan movadon?",
+		"answer": "kabei"
+	},
+	{
+		"id": "ESP11",
+		"category": "Esperantujo",
+		"question": "Esperantistoj uzis kiun internacian valuton antaŭ la Unua Mondmilito?",
+		"answer": "spesmilo"
+	},
+	{
+		"id": "ESP12",
+		"category": "Esperantujo",
+		"question": "De kiu retejo por lingvolernado devenis la memea frazo “mi fartas bone ĉar mi havas anason”?",
+		"answer": "Duolingo"
+	},
+	{
+		"id": "MUZ01",
+		"category": "Muziko",
+		"question": "Laŭ la himno “La Espero”, kiu venis en la mondon per flugiloj de facila vento?",
+		"answer": "nova sento"
+	},
+	{
+		"id": "MUZ02",
+		"category": "Muziko",
+		"question": "Kiu aŭstria komponisto verkis la operojn “Don Giovanni” kaj “La Magia Fluto”?",
+		"answer": "Wolfgang Amadeus Mozart"
+	},
+	{
+		"id": "MUZ03",
+		"category": "Muziko",
+		"question": "Kiu germana komponisto verkis la 9-an Simfonion en d-minoro, kies finala ĥoro fariĝis la melodio de la eŭropa himno?",
+		"answer": "Ludwig van Beethoven"
+	},
+	{
+		"id": "MUZ04",
+		"category": "Muziko",
+		"question": "Kiel nomiĝas la plej maljuna stilo de japana klasika muziko, enkondukite de Ĉinio kaj uzante kvin-tonan gamon?",
+		"answer": "Gagako"
+	},
+	{
+		"id": "MUZ05",
+		"category": "Muziko",
+		"question": "La muzikgrupo ABBA devenis de kiu lando?",
+		"answer": "Svedio"
+	},
+	{
+		"id": "MUZ06",
+		"category": "Muziko",
+		"question": "Kiu usona kantaŭtoro ricivis la Nobel-premion pri literaturo en 2016?",
+		"answer": "Bob Dylan"
+	},
+	{
+		"id": "MUZ07",
+		"category": "Muziko",
+		"question": "Kiom da bemoloj apartenas en la gamo F-maĵora?",
+		"answer": "unu (B bejmolo)"
+	},
+	{
+		"id": "MUZ08",
+		"category": "Muziko",
+		"question": "La vera nomo de Danny Boy, la ĉef-kantisto de la franca rok-muzikgrupo “Danny Boy et ses Pénitents”, estas la sama kiel kiu fama svisa esperantisto?",
+		"answer": "Claude Piron"
+	},
+	{
+		"id": "MUZ09",
+		"category": "Muziko",
+		"question": "Bertilo Wennergren estas la drumisto de kiu esperanta muzikgrupo?",
+		"answer": "Persone"
+	},
+	{
+		"id": "MUZ10",
+		"category": "Muziko",
+		"question": "Kiu germana esperantisto famiĝis pro siaj esperantaj muzikalbumoj en la rep-regea stilo?",
+		"answer": "Jonas Marx (Johnny M)"
+	},
+	{
+		"id": "MUZ11",
+		"category": "Muziko",
+		"question": "Kiu franca esperantisto registriĝis en la Guinness-Libro de Rekordoj pro kantado en la plej multaj lingvoj?",
+		"answer": "Jean-Marc Leclercq (JoMo)"
+	},
+	{
+		"id": "MUZ12",
+		"category": "Muziko",
+		"question": "Kiu kuba esperantisto verkis la kanton “Tiel la Mondo Iras”?",
+		"answer": "Juliano Hernández Angulo"
+	},
+	{
+		"id": "MUZ13",
+		"category": "Muziko",
+		"question": "La muzikgrupo AC/DC devenis de kiu lando?",
+		"answer": "Aŭstralio"
+	},
+	{
+		"id": "MUZ14",
+		"category": "Muziko",
+		"question": "En 1985, kiu duopo estis la unua aperanto de populara muzikgrupo en Ĉinio?",
+		"answer": "Wham!"
+	},
+	{
+		"id": "MUZ15",
+		"category": "Muziko",
+		"question": "Kiu germana baroka komponisto verkis la oratorion “Mesio”, kiu inkluzivias la faman ĥoron “Haleluja”?",
+		"answer": "George Friedrich Händel"
+	},
+	{
+		"id": "MUZ16",
+		"category": "Muziko",
+		"question": "Kiu brita solokantisto, konata pro traduki multajn himnojn kaj kantojn en Esperanton, ankaŭ membriĝis en la Lingua Komitato en 1905?",
+		"answer": "Adela Ŝefer"
+	},
+	{
+		"id": "LNG01",
+		"category": "Lingvo",
+		"question": "Kiu lingva institucio celas konservi kaj protekti la fundamentojn de Esperanto?",
+		"answer": "Akademio de Esperanto"
+	},
+	{
+		"id": "LNG02",
+		"category": "Lingvo",
+		"question": "Kiu planlingvo rekte devenis de Esperanto?",
+		"answer": "Ido"
+	},
+	{
+		"id": "LNG03",
+		"category": "Lingvo",
+		"question": "La esperanta alfabeto konsistas el kiom da literoj?",
+		"answer": "28"
+	},
+	{
+		"id": "LNG04",
+		"category": "Lingvo",
+		"question": "Kiun artfaritan lingvon parolis multaj fruaj esperantistoj antaŭ lerni Esperanton?",
+		"answer": "Volapuko"
+	},
+	{
+		"id": "LNG05",
+		"category": "Lingvo",
+		"question": "Kiu estas la oficiala lingvo de la kanada provinco Kebekio?",
+		"answer": "la franca"
+	},
+	{
+		"id": "LNG06",
+		"category": "Lingvo",
+		"question": "De kies alfabeto ofte aperas kelkaj literoj en sciencaj kaj matematikaj formuloj?",
+		"answer": "la greka"
+	},
+	{
+		"id": "LNG07",
+		"category": "Lingvo",
+		"question": "Kio estas la moderna termino por kiu ajn stadio en la evoluo de Esperanto antaŭ la eldono de la Unua Libro en 1887?",
+		"answer": "pra-esperanto"
+	},
+	{
+		"id": "LNG08",
+		"category": "Lingvo",
+		"question": "Kiu gramatika finaĵo indikas, ke objekto estas rekte trafata de ago?",
+		"answer": "N"
+	},
+	{
+		"id": "LNG09",
+		"category": "Lingvo",
+		"question": "Kio nomiĝas la studo de deveno kaj evoluo de vortoj?",
+		"answer": "etimologio"
+	},
+	{
+		"id": "LNG10",
+		"category": "Lingvo",
+		"question": "Kiu lingvo estas la plej parolata lingvo denaske en la mondo?",
+		"answer": "la mandarena (nordĉina dialektaro)"
+	},
+	{
+		"id": "LNG11",
+		"category": "Lingvo",
+		"question": "Kiu lando havas 11 oficialajn lingvojn, la plej multaj oficialaj lingvoj de iu ajn lando?",
+		"answer": "Sud-Afriko"
+	},
+	{
+		"id": "LNG12",
+		"category": "Lingvo",
+		"question": "Kiu konstruita lingvo famiĝis pro ĝia tre malmulta vortprovizo?",
+		"answer": "Toki Pona"
+	},
+	{
+		"id": "LNG13",
+		"category": "Lingvo",
+		"question": "Havante nur 11 literojn, kiu lingvo havas la plej malgrandan alfabeton?",
+		"answer": "la rotokasa"
+	},
+	{
+		"id": "LNG14",
+		"category": "Lingvo",
+		"question": "Kia vorto priksribas personon, lokon, ideon, aŭ similan aferon?",
+		"answer": "substantivo"
+	},
+	{
+		"id": "REL01",
+		"category": "Religio",
+		"question": "Kiun religion provis starigi Zamenhof kiel pont-religio, samkiel Esperanto funkcias kiel pont-lingvo?",
+		"answer": "Homaranismo"
+	},
+	{
+		"id": "REL02",
+		"category": "Religio",
+		"question": "En kiu japana religio estas la spirito de Zamenhof konsideriĝi di-nivele?",
+		"answer": "Oomoto"
+	},
+	{
+		"id": "REL03",
+		"category": "Religio",
+		"question": "En 2017, la papo Francisko ŝercis dum intervuo, ke li faras kion en Esperanto?",
+		"answer": "sonĝi"
+	},
+	{
+		"id": "REL04",
+		"category": "Religio",
+		"question": "Islamanoj estas vokata al preĝado po kiom fojoj tage?",
+		"answer": "kvin"
+	},
+	{
+		"id": "REL05",
+		"category": "Religio",
+		"question": "Brahmao, Viŝnuo, kaj Ŝivo estas parto de la Trimurtio en kiu religio?",
+		"answer": "Hinduismo"
+	},
+	{
+		"id": "REL06",
+		"category": "Religio",
+		"question": "La Korano estas la plej sankta libro de kiu religio?",
+		"answer": "Islamo"
+	},
+	{
+		"id": "REL07",
+		"category": "Religio",
+		"question": "Formo de kiu religio estas indiĝena de Japanio kaj estis ŝtata religio ĝis 1945?",
+		"answer": "Ŝintoismo"
+	},
+	{
+		"id": "REL08",
+		"category": "Religio",
+		"question": "La protesto de kiu germana monaĥo kontraŭ korupteco originis la protestantismo?",
+		"answer": "Martin Luther"
+	},
+	{
+		"id": "REL09",
+		"category": "Religio",
+		"question": "Kiel nomiĝas ĉina filozofio bazita sur la verkoj de Laozio, kiu proponis humilecon kaj piecon?",
+		"answer": "Taoismo"
+	},
+	{
+		"id": "REL10",
+		"category": "Religio",
+		"question": "Al kiu hebrea profeto oni atribuis la aŭtorecon de la Torao?",
+		"answer": "Moseso"
+	},
+	{
+		"id": "REL11",
+		"category": "Religio",
+		"question": "Kiu profeto estas la fondinto de Islamo?",
+		"answer": "Mohamedo"
+	},
+	{
+		"id": "REL12",
+		"category": "Religio",
+		"question": "Kiu fondis la Mormonan Eklezion (La Eklezio de Jesuo Kristo de la Sanktuloj de la Lastaj Tagoj)?",
+		"answer": "Joseph Smith"
+	},
+	{
+		"id": "REL13",
+		"category": "Religio",
+		"question": "Kiu estas la unua libro de la Biblo?",
+		"answer": "Genezo"
+	},
+	{
+		"id": "REL14",
+		"category": "Religio",
+		"question": "Priskribita de la mediumo Yvone Amaral Pereira en la libro “Memoraĵoj de Sinmortiginto”, kio estas Universitaturbo?",
+		"answer": "Transmonda universitato en kiu spiritoj lernas Esperanton"
+	},
+	{
+		"id": "REL15",
+		"category": "Religio",
+		"question": "Kiom longe restis Jona en la interno de fiŝo?",
+		"answer": "tri tagoj kaj tri noktoj"
+	},
+	{
+		"id": "REL16",
+		"category": "Religio",
+		"question": "Sur kiu monto donis Dio al Moseo la Dekologon?",
+		"answer": "Monto Sinajo"
+	},
+	{
+		"id": "CET01",
+		"category": "Cetero",
+		"question": "Kiu hungara kosmonaŭto estis la unua esperantiso, kiu vizitis la kosmon?",
+		"answer": "Bertalan Farkas"
+	},
+	{
+		"id": "CET02",
+		"category": "Cetero",
+		"question": "Kio estas la fonto de fajro de la olimpika torĉo antaŭ la komenco de la olimpiaj ludoj?",
+		"answer": "sunaj radioj, kiujn parabola spegulo fokusas"
+	},
+	{
+		"id": "CET03",
+		"category": "Cetero",
+		"question": "Kiu lando havis du prezidentojn, kiuj parolis Esperanton?",
+		"answer": "Aŭŝtrio (Franz Jonas kaj Heinz Fischer)"
+	},
+	{
+		"id": "CET04",
+		"category": "Cetero",
+		"question": "La fikcia detektivo Sherlock Holmes ludas kiun muzikilon?",
+		"answer": "violono"
+	},
+	{
+		"id": "CET05",
+		"category": "Cetero",
+		"question": "Kiu besto produktas la plej multon de la lano en la mondo?",
+		"answer": "ŝafo"
+	},
+	{
+		"id": "CET06",
+		"category": "Cetero",
+		"question": "El kio estas farita la azia vino sakeo?",
+		"answer": "rizo"
+	},
+	{
+		"id": "CET07",
+		"category": "Cetero",
+		"question": "Kio estas superjaro?",
+		"answer": "jaro konsistante de 366 tagoj"
+	},
+	{
+		"id": "CET08",
+		"category": "Cetero",
+		"question": "Kiom signifas la roma cifero “L”?",
+		"answer": "50"
+	},
+	{
+		"id": "CET09",
+		"category": "Cetero",
+		"question": "Kiu el la sep mirindaĵoj de la antikva mondo ankoraŭ ekzistas?",
+		"answer": "Piramido de Keopso (Granda Piramido de Gizo)"
+	},
+	{
+		"id": "CET10",
+		"category": "Cetero",
+		"question": "Kiu asocio eldonigas la gravan vortaron “Plena Ilustrita Vortaro de Esperanto”?",
+		"answer": "Sennacieca Asocia Tutmondo"
+	},
+	{
+		"id": "CET11",
+		"category": "Cetero",
+		"question": "Kiu papo parolis Esperanton?",
+		"answer": "Johano Paŭlo la 2-a"
+	},
+	{
+		"id": "CET12",
+		"category": "Cetero",
+		"question": "La valuta kodo XMR reprezentas kiun kriptografian valuton?",
+		"answer": "Monero"
+	},
+	{
+		"id": "CET13",
+		"category": "Cetero",
+		"question": "Kiu germana esperantiso ricevis la Nobel-premion pri ekonomiko pro sia disvolvigado de ludoteorio?",
+		"answer": "Reinhard Selten"
+	},
+	{
+		"id": "CET14",
+		"category": "Cetero",
+		"question": "El kiu lando devenis la sporto glitŝtonludo?",
+		"answer": "Skotlando"
+	},
+	{
+		"id": "CET15",
+		"category": "Cetero",
+		"question": "Kiu besto havas la plej grandajn orelojn?",
+		"answer": "afrika elefanto"
+	},
+	{
+		"id": "CET16",
+		"category": "Cetero",
+		"question": "Kiu ekonomika teorio montras, kiel la prezo kaj la kvanto de varoj estas determinataj de la merkato?",
+		"answer": "mendado kaj ofertado"
+	}
+]
